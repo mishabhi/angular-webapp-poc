@@ -1,4 +1,4 @@
-# project-management-web-app
+# Project management Web Client
 
 1. Install PostgreSql database and get it up. After running it, create a database scheme of name "project-management".
 
