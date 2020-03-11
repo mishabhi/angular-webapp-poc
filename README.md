@@ -1,4 +1,4 @@
-# Project management Web Client
+# An agnular based web app to perform CRUD operations
 
 1. Install PostgreSql database and get it up. After running it, create a database schema "project-management".
 
